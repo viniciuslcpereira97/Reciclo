@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+/public/storage
+/public/js/all.js
+/public/js/all.js.map
+/public/js/firebase/draw-card.js
+/resources/assets
+Homestead.yaml
+Homestead.json
+.env
